@@ -5,8 +5,8 @@ import Grid from './components/Grid';
 import produce from 'immer';
 import pic1 from './images/conways.jpg'
 
-const rows = 100;
-const cols = 100;
+const rows = 62;
+const cols = 24;
 
 // Generates a Random grid
 const randomGrid = () => {
